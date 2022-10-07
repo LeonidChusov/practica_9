@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="FIO">Фио</string>
+    <string name="age">возраст</string>
+    <string name="phone_number">номер телефона</string>
+    <string name="email">адрес электронной почты</string>
+</resources>
